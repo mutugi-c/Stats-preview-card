@@ -1,0 +1,25 @@
+{
+  "name": "stats-preview-card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mutugi-c/Stats-preview-card.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mutugi-c/Stats-preview-card/issues"
+  },
+  "homepage": "https://github.com/mutugi-c/Stats-preview-card#readme",
+  "devDependencies": {
+    "cssnano": "^5.1.12",
+    "parcel": "^2.7.0",
+    "postcss": "^8.4.16"
+  }
+}
