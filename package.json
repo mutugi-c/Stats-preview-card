@@ -1,7 +1,7 @@
 {
   "name": "stats-preview-card",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,8 +18,6 @@
   },
   "homepage": "https://github.com/mutugi-c/Stats-preview-card#readme",
   "devDependencies": {
-    "cssnano": "^5.1.12",
-    "parcel": "^2.7.0",
-    "postcss": "^8.4.16"
+    "parcel-bundler": "^1.12.5"
   }
 }
