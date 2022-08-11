@@ -10,7 +10,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  -
 
 ## Overview
 
@@ -24,8 +23,7 @@ This task aims at creating a stats preview card and enables the user to view the
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://statistics-preview-card.netlify.app/
 
 ## My process
 
